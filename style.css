@@ -41,7 +41,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: hsl(0, 0%, 95%);
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/613/161/desktop-wallpaper-physics-mathematics-equation-equations-formula-formula.jpg);
+    background-size: cover; 
 }
 
 button:hover{
